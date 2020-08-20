@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* ====================== Bootstrap Navbar =========================== */
+#navbarNav{
+
+justify-content: flex-end;
+ font-family: 'El Messiri', sans-serif;
+} 
+/* ====================== Bootstrap Carousel =========================== */
+
+#IdArticleSlideShow{
+   
+   display: flex;
+   justify-content: center;
+}
+
+h5 {
+    font-family: 'Amiri', serif !important;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+/* ====================== Bootstrap Card =========================== */
+
+#IdArticleCards{
+    display: flex;
+    justify-content: center;
+margin: 0px 20px;
+}
